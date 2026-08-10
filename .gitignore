@@ -1,0 +1,23 @@
+# entorno virtual de Python
+.venv/
+
+# datos
+data/raw/
+data/processed/
+
+# modelos entrenados
+models/
+
+# archivos temporales de Python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# sistema operativo
+.DS_Store
+Thumbs.db
