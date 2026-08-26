@@ -21,3 +21,6 @@ __pycache__/
 # sistema operativo
 .DS_Store
 Thumbs.db
+
+# Modelos entrenados
+models/*.pkl
