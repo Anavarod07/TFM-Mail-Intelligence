@@ -2,3 +2,7 @@ pandas
 numpy
 scikit-learn==1.9.0
 jupyter
+joblib==1.5.3
+torch==2.14.0
+transformers==5.16.1
+streamlit==1.63.0
